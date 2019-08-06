@@ -1,5 +1,4 @@
 # CI / CD
-#aidoin #aidoin/projects
 
 ## OverView
 The new architecture is based on  [Gitlab-CI](https://about.gitlab.com/product/continuous-integration/)  and  [Gitlab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html).
